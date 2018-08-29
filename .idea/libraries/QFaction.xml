@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QFaction">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mctst/plugins/QFaction.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

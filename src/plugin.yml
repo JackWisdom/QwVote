@@ -1,0 +1,8 @@
+main: git.jw.mcp.qwzd.qvote.VotePlugin
+version: 0.01
+name: QVote
+softdepend: [PlaceHolderAPI,QwLib]
+commands:
+    qvote:
+    qva:
+    spawn:

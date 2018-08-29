@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QwVote">
+    <output-path>$PROJECT_DIR$/../mctst/plugins</output-path>
+    <root id="archive" name="QwVote.jar">
+      <element id="module-output" name="QwVote" />
+    </root>
+  </artifact>
+</component>

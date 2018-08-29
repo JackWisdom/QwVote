@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="QwLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../spigot/spigot-1.13-R0.1-SNAPSHOT-b1849.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mctst/plugins/PlaceholderAPI-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mctst/plugins/QwLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../spigot/spigot-1.13-R0.1-SNAPSHOT-b1849.jar!/" />
+    </SOURCES>
+  </library>
+</component>
